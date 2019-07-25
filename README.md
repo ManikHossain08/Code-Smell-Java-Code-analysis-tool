@@ -1,3 +1,5 @@
+# exception-handling-anti-patterns-Code-analysis-tool-
+
 Concordia Graduate Program SOEN691 course assignment: static code analyzer.
 
 The analyzer is a command line tool and it searches for the following exception handling anti-patterns:<br/>
@@ -10,4 +12,4 @@ Students: <br/>
  - An Ran Chen (archen94@gmail.com)<br/>
  - Zi Peng (zhouyapengzi@gmail.com)<br/>
  - Manik Hossain (manik.ruet08@gmail.com)<br/>
-# exception-handling-anti-patterns-Code-analysis-tool-
+
