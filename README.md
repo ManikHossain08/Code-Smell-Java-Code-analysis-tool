@@ -8,9 +8,9 @@ The analyzer is a command line tool and it searches for the following exception 
  c) Exception Over Catch <br/>
 
 Students: <br/>
- - Manik Hossain (manik.ruet08@gmail.com)<br/>
- - Arthur Vitui (arthur.vitui@gmail.com)<br/>
- - An Ran Chen (archen94@gmail.com)<br/>
- - Zi Peng (zhouyapengzi@gmail.com)<br/>
+ - Manik Hossain <br/>
+ - Arthur Vitui <br/>
+ - An Ran Chen <br/>
+ - Zi Peng <br/>
  
 
