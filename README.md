@@ -7,10 +7,5 @@ The analyzer is a command line tool and it searches for the following exception 
  b) Nested Try <br/>
  c) Exception Over Catch <br/>
 
-Students: <br/>
- - Manik Hossain <br/>
- - Arthur Vitui <br/>
- - An Ran Chen <br/>
- - Zi Peng <br/>
  
 
